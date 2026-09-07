@@ -1,36 +1,36 @@
 # Hi, I'm Samuele 👋
 
-I'm a **Computer Science student at the University of Pisa**, interested in software development, web technologies, and creating useful digital experiences.
+I'm a **Computer Science student at the University of Pisa**, interested in software development, web technologies, and building useful digital projects.
 
-I enjoy building projects, experimenting with new ideas, and learning by turning concepts into working software.
+I enjoy learning by creating things, experimenting with new ideas, and turning simple concepts into working software.
 
 ---
 
-## 🌐 Web Projects
+## 🚀 Featured Projects
 
-### [Italy University Directory](https://github.com/samuelefrasca/Italy-University-Directory)
+### [UniDirectory](https://github.com/samuelefrasca/Italy-University-Directory)
 
-The project behind **unidirectory.it**, a website for discovering and exploring Italian universities.
+A website for discovering and exploring Italian universities.
 
-**[Visit website](https://unidirectory.it)** · **[Repository](https://github.com/samuelefrasca/Italy-University-Directory)**
+**Website:** [unidirectory.it](https://unidirectory.it) · **Repository:** [Italy-University-Directory](https://github.com/samuelefrasca/Italy-University-Directory)
 
-### [Province Italia](https://github.com/samuelefrasca/Province-Italia)
+### [ProvinceItalia.it](https://github.com/samuelefrasca/Province-Italia)
 
-An interactive website dedicated to the provinces and regions of Italy.
+An interactive website dedicated to the provinces and regions of Italy, with population data, regional and provincial pages, and an integrated quiz.
 
-**[Visit website](https://provinceitalia.it)** · **[Repository](https://github.com/samuelefrasca/Province-Italia)**
+**Website:** [provinceitalia.it](https://provinceitalia.it) · **Quiz:** [quiz.provinceitalia.it](https://quiz.provinceitalia.it) · **Repository:** [Province-Italia](https://github.com/samuelefrasca/Province-Italia)
 
 ### [Monty Hall Simulator](https://github.com/samuelefrasca/MontyHall-Simulator)
 
 An interactive web simulation of the classic Monty Hall probability problem.
 
-**[Visit website](https://montyhall.pages.dev)** · **[Repository](https://github.com/samuelefrasca/MontyHall-Simulator)**
+**Website:** [montyhall.pages.dev](https://montyhall.pages.dev) · **Repository:** [MontyHall-Simulator](https://github.com/samuelefrasca/MontyHall-Simulator)
 
 ### [Personal Portfolio](https://github.com/samuelefrasca/samuelefrasca.github.io)
 
 My personal website and portfolio.
 
-**[Visit website](https://samuelefrasca.github.io)** · **[Repository](https://github.com/samuelefrasca/samuelefrasca.github.io)**
+**Website:** [samuelefrasca.github.io](https://samuelefrasca.github.io) · **Repository:** [samuelefrasca.github.io](https://github.com/samuelefrasca/samuelefrasca.github.io)
 
 ---
 
@@ -38,38 +38,48 @@ My personal website and portfolio.
 
 ### [Province Italia Quiz](https://github.com/samuelefrasca/quiz-province-italia)
 
-A Python quiz focused on Italian provinces and regions.
+A Python quiz that tests knowledge of Italian provinces and regions.
 
-**[Repository](https://github.com/samuelefrasca/quiz-province-italia)**
+### [YearQuiz](https://github.com/samuelefrasca/yearquiz)
 
-### [Year Quiz](https://github.com/samuelefrasca/yearquiz)
-
-A Python quiz based on historical events and their years.
-
-**[Repository](https://github.com/samuelefrasca/yearquiz)**
+A multiple-choice quiz generator based on historical events and their years.
 
 ### [Monty Hall Simulator — Python](https://github.com/samuelefrasca/MontyHall-Simulator-Python)
 
 A Python simulation of the Monty Hall probability problem.
 
-**[Repository](https://github.com/samuelefrasca/MontyHall-Simulator-Python)**
+### [BMI Calculator](https://github.com/samuelefrasca/calcolatore-imc)
+
+A simple Python calculator for calculating Body Mass Index (BMI) and its classification.
 
 ### [Glovo Calculator](https://github.com/samuelefrasca/Glovo-Calculator)
 
-A Python project for calculating estimated Glovo courier earnings.
-
-**[Repository](https://github.com/samuelefrasca/Glovo-Calculator)**
+A Python project for estimating Glovo courier earnings.
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Technologies
+
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+---
+
+## 📚 Currently Learning
+
+* Computer Science fundamentals
+* Programming and algorithms
+* Web development
+* Software development
 
 ---
 
@@ -77,7 +87,7 @@ A Python project for calculating estimated Glovo courier earnings.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://samuelefrasca.github.io)
 [![UniDirectory](https://img.shields.io/badge/UniDirectory-0066CC?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://unidirectory.it)
-[![Province Italia](https://img.shields.io/badge/Province%20Italia-0066CC?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://provinceitalia.it)
+[![ProvinceItalia.it](https://img.shields.io/badge/ProvinceItalia.it-0066CC?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://provinceitalia.it)
 
 ---
 
