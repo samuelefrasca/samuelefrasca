@@ -8,7 +8,7 @@ I enjoy learning by creating things, experimenting with new ideas, and turning s
 
 ## 🚀 Featured Projects
 
-### [UniDirectory](https://github.com/samuelefrasca/Italy-University-Directory)
+### [Unidirectory](https://github.com/samuelefrasca/Italy-University-Directory)
 
 A website for discovering and exploring Italian universities.
 
