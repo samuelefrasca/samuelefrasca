@@ -12,7 +12,7 @@ I enjoy learning by creating things, experimenting with new ideas, and turning s
 
 A website for discovering and exploring Italian universities.
 
-**Website:** [unidirectory.it](https://unidirectory.it) · **Repository:** [Italy-University-Directory](https://github.com/samuelefrasca/Italy-University-Directory)
+**Website:** [unidirectory.it](https://unidirectory.it) · **Repository:** [unidirectory](https://github.com/samuelefrasca/unidirectory)
 
 ### [ProvinceItalia.it](https://github.com/samuelefrasca/Province-Italia)
 
