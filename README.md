@@ -1,32 +1,27 @@
-# Hi, I'm Samuele 👋
+# Samuele Frasca
+I'm a Computer Science (L-31R) student at the University of Pisa. Here I publish my personal projects.
 
-I'm a **Computer Science student at the University of Pisa**, interested in software development, web technologies, and building useful digital projects.
+## Websites
 
-I enjoy learning by creating things, experimenting with new ideas, and turning simple concepts into working software.
+### Unidirectory
 
----
-
-## 🚀 Featured Projects
-
-### [Unidirectory](https://github.com/samuelefrasca/Italy-University-Directory)
-
-A website for discovering and exploring Italian universities.
+A website for discovering and exploring Italian universities and degree programs.
 
 **Website:** [unidirectory.it](https://unidirectory.it) · **Repository:** [unidirectory](https://github.com/samuelefrasca/unidirectory)
 
-### [ProvinceItalia.it](https://github.com/samuelefrasca/Province-Italia)
+### ProvinceItalia
 
 An interactive website dedicated to the provinces and regions of Italy, with population data, regional and provincial pages, and an integrated quiz.
 
-**Website:** [provinceitalia.it](https://provinceitalia.it) · **Quiz:** [quiz.provinceitalia.it](https://quiz.provinceitalia.it) · **Repository:** [Province-Italia](https://github.com/samuelefrasca/Province-Italia)
+**Website:** [provinceitalia.it](https://provinceitalia.it) · **Quiz:** [quiz.provinceitalia.it](https://quiz.provinceitalia.it) · **Repository:** [provinceitalia](https://github.com/samuelefrasca/provinceitalia)
 
-### [Monty Hall Simulator](https://github.com/samuelefrasca/MontyHall-Simulator)
+### Monty Hall Simulator
 
 An interactive web simulation of the classic Monty Hall probability problem.
 
-**Website:** [montyhall.pages.dev](https://montyhall.pages.dev) · **Repository:** [MontyHall-Simulator](https://github.com/samuelefrasca/MontyHall-Simulator)
+**Website:** [montyhall.pages.dev](https://montyhall.pages.dev) · **Repository:** [montyhall-simulator](https://github.com/samuelefrasca/montyhall-simulator)
 
-### [Personal Portfolio](https://github.com/samuelefrasca/samuelefrasca.github.io)
+### Personal Portfolio
 
 My personal website and portfolio.
 
@@ -34,31 +29,31 @@ My personal website and portfolio.
 
 ---
 
-## 🐍 Python Projects
+## Python Projects
 
-### [Province Italia Quiz](https://github.com/samuelefrasca/quiz-province-italia)
+### [italian-provinces-quiz-py](https://github.com/samuelefrasca/italian-provinces-quiz-py)
 
-A Python quiz that tests knowledge of Italian provinces and regions.
+A collection of terminal-based Python quizzes on Italian provinces and regions.
 
-### [YearQuiz](https://github.com/samuelefrasca/yearquiz)
+### [year-quiz](https://github.com/samuelefrasca/year-quiz)
 
-A multiple-choice quiz generator based on historical events and their years.
+A terminal-based Python multiple-choice quiz generator for guessing the year of historical events.
 
-### [Monty Hall Simulator — Python](https://github.com/samuelefrasca/MontyHall-Simulator-Python)
+### [montyhall-simulator-py](https://github.com/samuelefrasca/montyhall-simulator-py)
 
-A Python simulation of the Monty Hall probability problem.
+A terminal-based Python simulation of the Monty Hall probability problem.
 
-### [BMI Calculator](https://github.com/samuelefrasca/calcolatore-imc)
+### [bmi-calculator](https://github.com/samuelefrasca/bmi-calculator)
 
-A simple Python calculator for calculating Body Mass Index (BMI) and its classification.
+A simple terminal-based Python calculator for Body Mass Index (BMI) and its classification.
 
-### [Glovo Calculator](https://github.com/samuelefrasca/Glovo-Calculator)
+### [glovo-calculator](https://github.com/samuelefrasca/glovo-calculator)
 
-A Python project for estimating Glovo courier earnings.
+A terminal-based Python calculator for estimating Glovo courier earnings.
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 **Languages**
 
@@ -71,24 +66,3 @@ A Python project for estimating Glovo courier earnings.
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
----
-
-## 📚 Currently Learning
-
-* Computer Science fundamentals
-* Programming and algorithms
-* Web development
-* Software development
-
----
-
-## 🔗 Links
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://samuelefrasca.github.io)
-[![UniDirectory](https://img.shields.io/badge/UniDirectory-0066CC?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://unidirectory.it)
-[![ProvinceItalia.it](https://img.shields.io/badge/ProvinceItalia.it-0066CC?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://provinceitalia.it)
-
----
-
-*Building, learning, and experimenting with code.*
