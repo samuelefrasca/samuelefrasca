@@ -21,6 +21,12 @@ An interactive web simulation of the classic Monty Hall probability problem.
 
 **Website:** [montyhall.pages.dev](https://montyhall.pages.dev) · **Repository:** [montyhall-simulator](https://github.com/samuelefrasca/montyhall-simulator)
 
+### Calcola IMC
+
+A calculator for Body Mass Index (BMI) and its classification on a website.
+
+**Website:** [calcolaimc.pages.dev](https://calcolaimc.pages.dev) · **Repository:** [calcola-imc](https://github.com/samuelefrasca/calcola-imc)
+
 ### Personal Portfolio
 
 My personal website and portfolio.
